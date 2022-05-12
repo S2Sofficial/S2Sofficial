@@ -1,8 +1,8 @@
 ### Hii Everyone,
-<!--
-**S2Sofficial/S2sofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Gif](https://raw.githubusercontent.com/Swaroop2sky/.github/main/profile/Files/CC_Express_20220512_1523290.19496560715385203%20(1).gif)
 
-Here are some ideas to get you started:-->
+#### Welcome to my GitHub Profile
+
 [![SWAROOP2SKY](https://github-readme-stats.vercel.app/api?username=s2sofficial&title_color=33f719&icon_color=fff957&text_color=ffffff&bg_color=000000&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://gitHub.com/s2sofficial/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s2sofficial&layout=compact&title_color=33f720&text_color=000000&bg_color=46,000000,468262,137871,669491,b4d6d4&hide_border=true&langs_count=8)](https://github.com/s2sofficial/github-readme-stats)
 
@@ -28,17 +28,18 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: Swaroop2sky
 - 💚 My Languages:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 - OS Used:
 
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
+[![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-in/windows)
+[![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)](https://www.xfce.org/)
+
 <!-- ⚡ Fun fact: -->
 
 
