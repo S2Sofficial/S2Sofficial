@@ -41,5 +41,5 @@
 [![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)](https://www.xfce.org/)
 
 <!-- ⚡ Fun fact: -->
-
+![Metrics](/github-metrics.svg)
 
