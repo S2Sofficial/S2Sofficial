@@ -11,9 +11,7 @@
 - 🌍 My Organization @Swaroop2sky
 - 🔭 I’m currently working on Python Projects.
 - 🌱 I’m currently learning Programming.
-- 👯 I’m looking to collaborate on Python based Projects.
-<!-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...-->
+- 👯 I’m looking to collaborate on all kind of Projects, Contact me to know more.
 - 📫 How to reach me: 
 
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Swaroop2sky)
