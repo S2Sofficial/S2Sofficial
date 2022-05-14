@@ -40,3 +40,4 @@
 ### My GitHub Stats ☕
 [![SWAROOP2SKY](https://github-readme-stats.vercel.app/api?username=s2sofficial&title_color=33f719&icon_color=fff957&text_color=ffffff&bg_color=000000&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://gitHub.com/s2sofficial/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s2sofficial&layout=compact&title_color=33f720&text_color=000000&bg_color=46,000000,468262,137871,669491,b4d6d4&hide_border=true&langs_count=8)](https://github.com/s2sofficial/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=S2Sofficial&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
