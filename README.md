@@ -3,6 +3,9 @@
 
 ![](https://komarev.com/ghpvc/?username=S2Sofficial&style=for-the-badge)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s2sofficial" alt="s2sofficial" /></a> </p>
+
+
 #### Welcome to my GitHub Profile
 
 - ◉‿◉ I'm 19 years old programming enthusiast. 
@@ -11,16 +14,19 @@
 - 🔭 I’m currently working on Python Projects.
 - 🌱 I’m currently learning Programming.
 - 👯 I’m looking to collaborate on all kind of Projects, Contact me to know more.
-- 📫 How to reach me: 
 
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Swaroop2sky)
- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/S2Sme)
- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swaroop2sky)
- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/Swaroop2sky)
- [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Swaroop2sky)
- [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://Swaroop2sky.github.io)
- [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.in/u/Swaroop2sky)
- [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/swaroopyadav)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/swaroop2sky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swaroop2sky" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/swaroopyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swaroopyadav" height="30" width="40" /></a>
+<a href="https://instagram.com/swaroop2sky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swaroop2sky" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/swaroop2sky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="swaroop2sky" height="30" width="40" /></a>
+<a href="https://www.freelancer.in/u/Swaroop2sky" target="blank"><img align="center" src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="swaroop2sky" height="20" /></a>
+<a href="https://www.github.com/S2Sofficial" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="swaroop2sky" /></a>
+<a href="https://www.behance.net/swaroopyadav" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtT9GYDB4ClE1YuHptrBhM8jS3hdpAT6Bcvg&usqp=CAU" alt="swaroop2sky" height="30" width="40" /></a>
+<a href="https://t.me/swaroop2sky" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" alt="swaroop2sky" height="30" width="40" /></a>
+
+</p>
 
 - 😄 Pronouns: Swaroop2sky
 - 💚 My Languages:
