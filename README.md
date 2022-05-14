@@ -1,6 +1,8 @@
 ### Hii Everyone,
 ![Profile Gif](https://raw.githubusercontent.com/Swaroop2sky/.github/main/profile/Files/CC_Express_20220512_1523290.19496560715385203%20(1).gif)
 
+![](https://komarev.com/ghpvc/?username=S2Sofficial&style=for-the-badge)
+
 #### Welcome to my GitHub Profile
 
 [![SWAROOP2SKY](https://github-readme-stats.vercel.app/api?username=s2sofficial&title_color=33f719&icon_color=fff957&text_color=ffffff&bg_color=000000&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://gitHub.com/s2sofficial/github-readme-stats)
