@@ -44,7 +44,7 @@
 [![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)](https://www.xfce.org/)
 
 ### My GitHub Stats ☕
-[![SWAROOP2SKY](https://github-readme-stats.vercel.app/api?username=s2sofficial&title_color=33f719&icon_color=fff957&text_color=ffffff&bg_color=000000&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://gitHub.com/s2sofficial/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s2sofficial&layout=compact&title_color=33f720&text_color=ffffff&bg_color=000000&hide_border=true&langs_count=8)](https://github.com/s2sofficial/github-readme-stats)
+[![SWAROOP2SKY](https://github-readme-stats.vercel.app/api?username=s2sofficial&title_color=33f719&icon_color=fff957&text_color=ffffff&bg_color=000000&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://Swaroop2sky.gitHub.io)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s2sofficial&layout=compact&title_color=33f720&text_color=ffffff&bg_color=000000&hide_border=true&langs_count=8)](https://Swaroop2sky.github.io)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=S2Sofficial&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <a href="https://github.com/infotechIT"><img alt="InfoTech Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=S2Sofficial&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
