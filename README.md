@@ -1,7 +1,8 @@
 ### Hii Everyone, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="hi" width="25px"/>
 ![Profile Gif](https://raw.githubusercontent.com/Swaroop2sky/.github/main/profile/Files/CC_Express_20220512_1523290.19496560715385203%20(1).gif)
 
-![](https://komarev.com/ghpvc/?username=S2Sofficial&style=for-the-badge)
+<a href="https://instagram.com/swaroop2sky" target="blank"><img align="centre" src="https://cdn3.iconfinder.com/data/icons/profession-and-occupation/512/programmer-avatar-developer-coder-male-professional-character-occupation-profession-2-1024.png" alt="swaroop2sky" height="40" width="40" /></a>
+![profile views](https://komarev.com/ghpvc/?username=S2Sofficial&style=for-the-badge)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s2sofficial" alt="s2sofficial" /></a> </p>
 
@@ -16,19 +17,19 @@
 - 👯 I’m looking to collaborate on all kind of Projects, Contact me to know more.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="middle">
 <a href="https://twitter.com/swaroop2sky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swaroop2sky" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/swaroopyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swaroopyadav" height="30" width="40" /></a>
 <a href="https://instagram.com/swaroop2sky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swaroop2sky" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/swaroop2sky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="swaroop2sky" height="30" width="40" /></a>
-<a href="https://www.freelancer.in/u/Swaroop2sky" target="blank"><img align="center" src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="swaroop2sky" height="20" /></a>
-<a href="https://www.github.com/S2Sofficial" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="swaroop2sky" /></a>
-<a href="https://www.behance.net/swaroopyadav" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtT9GYDB4ClE1YuHptrBhM8jS3hdpAT6Bcvg&usqp=CAU" alt="swaroop2sky" height="30" width="40" /></a>
-<a href="https://t.me/swaroop2sky" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" alt="swaroop2sky" height="30" width="40" /></a>
+<a href="https://www.freelancer.in/u/Swaroop2sky" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/freelancer/freelancer-icon.svg" alt="swaroop2sky" height="40" /></a>
+<a href="https://www.github.com/S2Sofficial" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-1024.png" alt="swaroop2sky" height="40" width="40" /></a>
+<a href="https://www.behance.net/swaroopyadav" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Behance-1024.png" alt="swaroop2sky" height="30" width="40" /></a>
+<a href="https://t.me/swaroop2sky" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_telegram_Airplane_Air_plane_paper_airplane-22-1024.png" alt="swaroop2sky" height="40" width="40" /></a>
 
 </p>
 
-- 😄 Pronouns: Swaroop2sky
+- 😄 Pronouns: ```Swaroop2sky```
 - 💚 My Languages:
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
