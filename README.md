@@ -1,4 +1,4 @@
-### Hii Everyone, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="hi" width="25px"/>
+### Hii Everyone,👋 <!--img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="hi" width="25px"/-->
 ![Profile Gif](https://raw.githubusercontent.com/Swaroop2sky/.github/main/profile/Files/CC_Express_20220512_1523290.19496560715385203%20(1).gif)
 
 <a href="https://instagram.com/swaroop2sky" target="blank"><img align="centre" src="https://cdn3.iconfinder.com/data/icons/profession-and-occupation/512/programmer-avatar-developer-coder-male-professional-character-occupation-profession-2-1024.png" alt="swaroop2sky" height="40" width="40" /></a>
