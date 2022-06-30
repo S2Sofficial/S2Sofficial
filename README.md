@@ -24,7 +24,7 @@
 <a href="https://www.youtube.com/c/swaroop2sky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="swaroop2sky" height="30" width="40" /></a>
 <a href="https://www.freelancer.in/u/Swaroop2sky" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/freelancer/freelancer-icon.svg" alt="swaroop2sky" height="40" /></a>
 <a href="https://www.github.com/S2Sofficial" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-1024.png" alt="swaroop2sky" height="40" width="40" /></a>
-<a href="https://www.behance.net/swaroopyadav" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Behance-1024.png" alt="swaroop2sky" height="30" width="40" /></a>
+<a href="https://www.behance.net/s2sme" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Behance-1024.png" alt="swaroop2sky" height="30" width="40" /></a>
 <a href="https://t.me/swaroop2sky" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_telegram_Airplane_Air_plane_paper_airplane-22-1024.png" alt="swaroop2sky" height="40" width="40" /></a>
 
 </p>
