@@ -12,8 +12,8 @@
 - ◉‿◉ I'm 19 years old programming enthusiast. 
 - ♥️ I create contents on various popular platforms, like [Instagram](https://instagram.com/Swaroop2sky), [YouTube](https://youtube.com/c/Swaroop2sky) & [Telegram](https://t.me/Swaroop2sky). 
 - 🌍 My Organization [@Swaroop2sky](https://GitHub.com/Swaroop2sky) <img src="https://avatars.githubusercontent.com/u/75105593?s=200&v=4" width="25px"/>
-- 🔭 I’m currently working on Python Projects.
-- 🌱 I’m currently learning Programming.
+- 🔭 I’m currently working on Web Devlopment.
+- 🌱 I’m currently learning Programming in C & Unity Hub.
 - 👯 I’m looking to collaborate on all kind of Projects, Contact me to know more.
 
 <h3 align="left">Connect with me:</h3>
