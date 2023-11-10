@@ -9,18 +9,18 @@
 
 #### Welcome to my GitHub Profile
 
-- ◉‿◉ I'm 19 years old programming enthusiast. 
+- ◉‿◉ I'm an young programming enthusiast. 
 - ♥️ I create contents on various popular platforms, like [Instagram](https://instagram.com/Swaroop2sky), [YouTube](https://youtube.com/c/Swaroop2sky) & [Telegram](https://t.me/Swaroop2sky). 
 - 🌍 My Organization [@Swaroop2sky](https://GitHub.com/Swaroop2sky) <img src="https://avatars.githubusercontent.com/u/75105593?s=200&v=4" width="25px"/>
 - 🔭 I’m currently working on Web Devlopment.
-- 🌱 I’m currently learning Programming in C & Unity Hub.
-- 👯 I’m looking to collaborate on all kind of Projects, Contact me to know more.
+- 🌱 I’m currently learning Data Science & Machine Learning using Python.
+- 👯 I’m looking to collaborate on all kind of Python & Web Projects, Contact me to know more.
 
 <h3 align="left">Connect with me:</h3>
 <p align="middle">
 <a href="https://twitter.com/swaroop2sky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swaroop2sky" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/swaroop2sky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swaroopyadav" height="30" width="40" /></a>
-<a href="https://instagram.com/swaroop2sky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swaroop2sky" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/swaroop2sky" target="blank"><img align="center" src="https://s2sofficial.github.io/S2Sofficial/.github/assests/logo/icons8-linkedin.svg" alt="swaroop2sky" height="30" width="40" /></a>
+<a href="https://instagram.com/swaroop2sky" target="blank"><img align="center" src="http://s2sofficial.github.io/s2sofficial/.github/assests/logo/instagram.png" alt="swaroop2sky" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/swaroop2sky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="swaroop2sky" height="30" width="40" /></a>
 <a href="https://www.freelancer.in/u/Swaroop2sky" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/freelancer/freelancer-icon.svg" alt="swaroop2sky" height="40" /></a>
 <a href="https://www.github.com/S2Sofficial" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-1024.png" alt="swaroop2sky" height="40" width="40" /></a>
