@@ -1,5 +1,4 @@
 ### Hii Everyone,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="hi" width="25px">
-![Profile Gif](https://raw.githubusercontent.com/Swaroop2sky/.github/main/profile/Files/CC_Express_20220512_1523290.19496560715385203%20(1).gif)
 
 <a href="https://instagram.com/swaroop2sky" target="blank"><img align="centre" src="https://cdn3.iconfinder.com/data/icons/profession-and-occupation/512/programmer-avatar-developer-coder-male-professional-character-occupation-profession-2-1024.png" alt="swaroop2sky" height="40" width="40" /></a>
 ![profile views](https://komarev.com/ghpvc/?username=S2Sofficial&style=for-the-badge)
@@ -45,7 +44,8 @@
 [![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)](https://www.xfce.org/)
 
 ### My GitHub Stats ☕
-[![SWAROOP2SKY](https://github-readme-stats.vercel.app/api?username=s2sofficial&title_color=33f719&icon_color=fff957&text_color=ffffff&bg_color=000000&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://Swaroop2sky.gitHub.io)
+[![Swaroop's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2sofficial&show_icons=true&theme=radical)](https://github.com/s2sofficial/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s2sofficial&layout=compact&title_color=33f720&text_color=ffffff&bg_color=000000&hide_border=true&langs_count=8)](https://Swaroop2sky.github.io)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=S2Sofficial&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://GitHub.com/S2Sofficial)
 <a href="https://swaroop2sky.github.io"><img alt="InfoTech Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=S2Sofficial&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
